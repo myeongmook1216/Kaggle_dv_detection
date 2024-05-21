@@ -64,5 +64,4 @@ This project utilizes several open-source libraries and frameworks. Below are th
   
 ---
 
-This project is distributed under the terms of the [MIT License](https://opensource.org/licenses/MIT). For more details, see the `LICENSE` file.
-
+This project is distributed under the terms of the [MIT License](https://opensource.org/licenses/MIT).
