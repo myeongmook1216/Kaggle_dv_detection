@@ -1,0 +1,9 @@
+- [NumPy](https://numpy.org/) - BSD 3-Clause License
+- [Pandas](https://pandas.pydata.org/) - BSD 3-Clause License
+- [glob](https://docs.python.org/3/library/glob.html) - Python Software Foundation License
+- [Librosa](https://librosa.org/) - ISC License
+- [Matplotlib](https://matplotlib.org/) - Matplotlib License (BSD compatible)
+- [tqdm](https://tqdm.github.io/) - MPLv2.0, MIT License
+- [scikit-learn](https://scikit-learn.org/stable/) - BSD 3-Clause License
+- [PyTorch](https://pytorch.org/) - BSD 3-Clause License
+- [OpenCV](https://opencv.org/) - Apache 2 License
