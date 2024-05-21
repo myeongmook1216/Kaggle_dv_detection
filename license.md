@@ -12,7 +12,7 @@ This project utilizes several open-source libraries and frameworks. Below are th
 
 ## Glob
 - **License**: Python Software Foundation License
-- **Documentation**: [Python Glob Module](https://docs.python.org/3/library/glob.html)
+- **Documentation**: [Python Glob Module](https://docs.python.org/3/library/glob.html) [license](https://docs.python.org/3/license.html)
 
 ## OS
 - **License**: Python Software Foundation License
